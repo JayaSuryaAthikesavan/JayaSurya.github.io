@@ -51,7 +51,7 @@ branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
 production_url:  https://JayaSuryaAthikesavan.github.io/
-source_url:  https://github.com/JayaSuryaAthikesavan/
+source_url:  https://github.com/JayaSuryaAthikesavan.github.io/
 
 exclude:
   - README.md
